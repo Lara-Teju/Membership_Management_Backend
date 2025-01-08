@@ -36,4 +36,4 @@ Ensure you have the following installed on your system:
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://https://github.com/Lara-Teju/Membership_Management_Backend.git
+   git clone https://github.com/Lara-Teju/Membership_Management_Backend.git
